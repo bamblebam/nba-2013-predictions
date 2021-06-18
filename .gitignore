@@ -1,0 +1,11 @@
+/data
+/.vscode
+/dataset
+/cache
+/model_cache
+/checkpoints
+/logs
+/pickles
+/models
+/submissions
+/lightning_logs
